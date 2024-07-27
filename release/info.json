@@ -1,0 +1,12 @@
+{
+  "mods": [
+    {
+      "modName": "DrowHalfElfShadowheart",
+      "UUID": "76b5f7d9-76aa-4e62-a48d-fbd1266e1b8e",
+      "folderName": "DrowHalfElfShadowheart",
+      "Description": "Changes Shadowheart to be a Drow Half Elf Light Cleric with Acolyte background.",
+      "version": "1.0.0.0",
+      "MD5": ""
+    }
+  ]
+}
