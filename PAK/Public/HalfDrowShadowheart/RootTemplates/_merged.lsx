@@ -21,7 +21,7 @@
 					<attribute id="DeathRaycastMaxLength" type="float" value="1.5" />
 					<attribute id="DisintegratedResourceID" type="FixedString" value="c201a86a-297f-4d0d-16a3-073c1098767b" />
 					<attribute id="DisplayName" type="TranslatedString" handle="h31a3bc0cg3e61g44a8g826fg6a50fc9577e7" version="1" />
-					<attribute id="Equipment" type="FixedString" value="EQ_Shadowheart_WoodHalfElf" />
+					<attribute id="Equipment" type="FixedString" value="EQ_Shadowheart_HalfDrow" />
 					<attribute id="EquipmentRace" type="guid" value="541473b3-0bf3-4e68-b1ab-d85894d96d3e" />
 					<attribute id="ExplodedResourceID" type="FixedString" value="9b371eaa-2ebe-028e-d577-2202ab7acff1" />
 					<attribute id="Faction" type="guid" value="1b5bd02e-2178-c73c-3eb0-b8f4fc4f7dc5" />
@@ -453,7 +453,7 @@
 					<attribute id="AnubisConfigName" type="FixedString" value="GLO_ShadowHeart" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="9ab62da4-a028-c237-b5b9-ca897f62b771" />
 					<attribute id="DisplayName" type="TranslatedString" handle="h9d948a49g191fg42b0g809cgb6c1035d1a69" version="1" />
-					<attribute id="Equipment" type="FixedString" value="EQ_Shadowheart_WoodHalfElf" />
+					<attribute id="Equipment" type="FixedString" value="EQ_Shadowheart_HalfDrow" />
 					<attribute id="Faction" type="guid" value="1b5bd02e-2178-c73c-3eb0-b8f4fc4f7dc5" />
 					<attribute id="Flag" type="int32" value="0" />
 					<attribute id="GeneratePortrait" type="LSString" value="Icon_Origin_Shadowheart" />
@@ -532,7 +532,7 @@
 					<attribute id="AnubisConfigName" type="FixedString" value="GLO_ShadowHeart" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="5b3f87f9-2a3e-00ca-d173-0b608f870995" />
 					<attribute id="DisplayName" type="TranslatedString" handle="h7d4a0620g1838g41eaga246gd6c061320e6d" version="1" />
-					<attribute id="Equipment" type="FixedString" value="EQ_Shadowheart_WoodHalfElf" />
+					<attribute id="Equipment" type="FixedString" value="EQ_Shadowheart_HalfDrow" />
 					<attribute id="Faction" type="guid" value="1b5bd02e-2178-c73c-3eb0-b8f4fc4f7dc5" />
 					<attribute id="GeneratePortrait" type="LSString" value="Icon_Origin_Shadowheart" />
 					<attribute id="Icon" type="FixedString" value="9ab62da4-a028-c237-b5b9-ca897f62b771-EQ_Shadowheart_(Icon_Origin_Shadowheart)" />
